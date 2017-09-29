@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10565" started-at="2017-09-06T15:57:27Z" finished-at="2017-09-06T15:57:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10565" started-at="2017-09-06T15:57:27Z" finished-at="2017-09-06T15:57:37Z">
+      <class name="com.android.anjan.testcases.Test_Cases2">
+        <test-method status="PASS" signature="pre_requsites()[pri:0, instance:com.android.anjan.testcases.Test_Cases2@3ce53f6a]" name="pre_requsites" is-config="true" duration-ms="273" started-at="2017-09-06T21:27:27Z" finished-at="2017-09-06T21:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pre_requsites -->
+        <test-method status="PASS" signature="Launch_One20_Application()[pri:0, instance:com.android.anjan.testcases.Test_Cases2@3ce53f6a]" name="Launch_One20_Application" duration-ms="10226" started-at="2017-09-06T21:27:27Z" finished-at="2017-09-06T21:27:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_One20_Application -->
+      </class> <!-- com.android.anjan.testcases.Test_Cases2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
